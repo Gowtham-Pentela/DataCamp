@@ -23,23 +23,25 @@ This repository is a collection of projects and competitions from DataCamp that 
 Here are some of the notable projects included in this repository:
 
 1. **Exploring London's Travel Network**  
-   Description: Used SQL for finding the Most Popular Travel Mode in London using 'tfl_journeys_final.csv'.  
+   Description: This project contains SQL queries designed to analyze transportation journey data from the Transport for London (TFL) database. The queries provide insights into the most popular modes of transport, the usage of the Emirates Airline, and the least popular years for the London Underground. These analyses can help in understanding trends in public transport usage over time. 
  
 
 2. **Investigating Netflix Movies**  
-   Description: Finding the movie details using Python for basic Analysis using 'netflix_data.csv'.
+   Description: This project involves analyzing Netflix data using Python's pandas and matplotlib libraries. The focus is on filtering movies from the 1990s based on specific criteria such as genre and duration, and performing basic data exploration. The analysis includes identifying movies released in the 1990s and examining their duration, with particular attention to action movies shorter than 90 minutes.
 
 3. **Analyzing Students' Mental Health**  
-   Description: Using SQL to perform analytics on the 'students.csv'.
+   Description: This project contains SQL queries designed to analyze data from the students table. The main focus of these queries is to retrieve student records and analyze data related to international students, specifically their stay duration and average scores in three psychological scales (PHQ, SCS, and AS). These insights can help in understanding the well-being of international students based on the duration of their stay.
 
+4. **Game Sales and Ratings Analysis**  
+   Description: This project contains a set of SQL queries designed to analyze video game sales and ratings, with a focus on identifying top-selling games, highly rated years in terms of critic scores, and comparing critic vs. user ratings for specific years. Each query provides insight into different aspects of game sales and their corresponding reviews.
 
 ## Competitions
 
 In addition to projects, I also participated in various DataCamp competitions. Here are some highlights:
 
-1. **Competition Title 1**  
-   Description: Brief description of the competition, the objective, and the methods used to solve it.  
-   Link: [Competition Link](#)
+1. **Story Telling**  
+   Description: This project explores the magical creatures of Numeria, focusing on their distribution across various kingdoms. It utilizes Python libraries such as `pandas`, `matplotlib`, and `plotly` to analyze and visualize the data effectively.
+
 
 
 
