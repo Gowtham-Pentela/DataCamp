@@ -1,6 +1,3 @@
-Here's a README file that explains the purpose of your project, the datasets used, and how to run the code. You can format this in Markdown:
-
-```markdown
 # Magical Creatures Data Visualization Project
 
 ## Overview
